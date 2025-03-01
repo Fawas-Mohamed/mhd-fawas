@@ -1,0 +1,49 @@
+body{
+    font-family: Arial,sans-serif;
+    margin:2px;
+    padding:2px;
+    background-color:rgb(222, 37, 139);
+
+}
+header{
+    background-color:rgb(3, 14, 14);
+    color:blue;
+    padding:1px;
+    text-align: center;
+}
+nav ul{
+    list-style-type:none;
+}
+nav ul li{
+    display:initial;
+    margin-right:30px;
+
+}
+a{
+    color:rgb(185, 84, 17);
+    text-decoration:saddlebrown;
+}
+section{
+    padding:6px;
+
+}
+#project .project-card{
+    background:#7a3fb9 ;
+    border:1px solid rgb(1, 5, 5);
+    margin:1px;
+    padding:5px;
+    border-radius: 9px;
+
+
+}
+form input,form textarea{
+    width:85%;
+    padding:1px;
+    margin:5px 0;
+}
+footer{
+    background-color:#333;
+    color:rgb(14, 5, 22);
+    text-align:center;
+    padding:10px;
+}
